@@ -14,3 +14,4 @@ macOS High Sierra 版本 10.13.6
 file:///Users/kai2ou/Downloads/网页归档/黑苹果EFI分区的目录结构.webarchive
 kext驱动介绍：
 VoodooPS2Controller.kext    触摸板驱动程序
+HibernationFixup.kext   修复休眠问题
